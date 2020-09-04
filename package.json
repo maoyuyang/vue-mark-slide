@@ -54,7 +54,7 @@
     "jest": "^24.8.0",
     "lint-staged": "^8.2.1",
     "lru-cache": "^5.1.1",
-    "marked": "^0.6.3",
+    "marked": "^0.7.0",
     "normalize.css": "^8.0.1",
     "portfinder": "^1.0.20",
     "prettier": "^1.18.2",
